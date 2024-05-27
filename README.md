@@ -8,15 +8,11 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.3 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,42 +20,6 @@ I'm Eric, an Android developer.
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌆 Daytime                15 commits          █████████████████████░░░░   83.33 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   4 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Tuesday                  10 commits          ██████████████░░░░░░░░░░░   55.56 % 
-Wednesday                2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -71,5 +31,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ```
 
 
- Last Updated on 27/05/2024 04:49:01 UTC
+
+
+ Last Updated on 27/05/2024 18:34:51 UTC
 <!--END_SECTION:waka-->
