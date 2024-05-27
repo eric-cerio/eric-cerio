@@ -1,3 +1,12 @@
+
+I'm Eric, an Android developer.
+
+🔭 I’m currently working for [Appetiser Apps](http://appetiser.com.au)
+
+📫 How to reach me: (eric.cerio@gmail.ccom)
+
+👀 You can check more about me at (https://www.linkedin.com/in/eric-cerio/)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -60,12 +69,6 @@ Python                   1 repo              ███░░░░░░░░�
 Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
  Last Updated on 27/05/2024 04:49:01 UTC
