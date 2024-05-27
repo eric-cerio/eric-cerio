@@ -3,9 +3,9 @@ I'm Eric, an Android developer.
 
 🔭 I’m currently working for [Appetiser Apps](http://appetiser.com.au)
 
-📫 How to reach me: (eric.cerio@gmail.ccom)
+📫 How to reach me: eric.cerio@gmail.ccom
 
-👀 You can check more about me at (https://www.linkedin.com/in/eric-cerio/)
+👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
