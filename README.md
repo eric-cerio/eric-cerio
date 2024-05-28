@@ -8,11 +8,15 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 9 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,6 +24,42 @@ I'm Eric, an Android developer.
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+🌆 Daytime                19 commits          ██████████████████████░░░   86.36 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   7 commits           ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Tuesday                  11 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+Wednesday                2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -32,6 +72,10 @@ JavaScript               1 repo              ███░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 27/05/2024 18:34:51 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/05/2024 06:39:09 UTC
 <!--END_SECTION:waka-->
