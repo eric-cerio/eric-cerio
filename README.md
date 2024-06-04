@@ -73,12 +73,5 @@ Java                     1 repo              ███░░░░░░░░�
 JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
-
-
  Last Updated on 03/06/2024 18:37:48 UTC
 <!--END_SECTION:waka-->
