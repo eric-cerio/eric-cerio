@@ -8,9 +8,9 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,17 +49,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   17 hrs 21 mins      ████████████████████████░   95.11 % 
-XML                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Java                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Kotlin                   18 hrs 13 mins      ████████████████████████░   96.06 % 
+XML                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Java                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           18 hrs 14 mins      █████████████████████████   100.00 % 
+Android Studio           18 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,5 +79,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:37:36 UTC
+ Last Updated on 14/06/2024 18:37:33 UTC
 <!--END_SECTION:waka-->
