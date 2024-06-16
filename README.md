@@ -8,7 +8,9 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2024%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
@@ -22,6 +24,46 @@ I'm Eric, an Android developer.
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7 commits           ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+🌆 Daytime                19 commits          ██████████████████░░░░░░░   70.37 % 
+🌃 Evening                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   7 commits           ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Tuesday                  12 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
+Wednesday                6 commits           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Kotlin                   15 hrs 52 mins      ███████████████████████░░   93.29 % 
+XML                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Gradle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+🔥 Editors: 
+Android Studio           17 hrs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      17 hrs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -39,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:35:26 UTC
+ Last Updated on 16/06/2024 18:35:34 UTC
 <!--END_SECTION:waka-->
