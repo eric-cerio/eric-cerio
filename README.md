@@ -8,7 +8,7 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -51,17 +51,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   21 hrs 45 mins      ██████████████████░░░░░░░   72.96 % 
-XML                      7 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Java                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Kotlin                   20 hrs 55 mins      ██████████████████░░░░░░░   72.15 % 
+XML                      7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Java                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           29 hrs 49 mins      █████████████████████████   100.00 % 
+Android Studio           28 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2024 18:39:03 UTC
+ Last Updated on 13/07/2024 18:34:45 UTC
 <!--END_SECTION:waka-->
