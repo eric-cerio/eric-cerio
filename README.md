@@ -8,7 +8,7 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -51,17 +51,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   20 hrs 58 mins      █████████████████████░░░░   84.41 % 
-XML                      2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Java                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-TOML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Kotlin                   27 hrs 25 mins      █████████████████████░░░░   83.83 % 
+XML                      2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+TOML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Java                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Java Properties          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Android Studio           24 hrs 51 mins      █████████████████████████   100.00 % 
+Android Studio           32 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2024 18:36:57 UTC
+ Last Updated on 21/07/2024 18:34:54 UTC
 <!--END_SECTION:waka-->
