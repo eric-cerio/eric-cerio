@@ -8,13 +8,15 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.4 kB Used in GitHub's Storage 
+> 📦 6.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,17 +51,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   13 hrs 53 mins      █████████████████████░░░░   85.23 % 
-XML                      2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Java                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Kotlin                   13 hrs 46 mins      ██████████████████████░░░   88.39 % 
+XML                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Java                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           16 hrs 18 mins      █████████████████████████   100.00 % 
+Android Studio           15 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2024 18:38:38 UTC
+ Last Updated on 05/09/2024 18:39:24 UTC
 <!--END_SECTION:waka-->
