@@ -8,7 +8,7 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,17 +51,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   25 hrs 14 mins      ███████████████░░░░░░░░░░   58.61 % 
-Groovy                   5 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Gradle                   4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Java                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Properties               2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Kotlin                   26 hrs 28 mins      ███████████████░░░░░░░░░░   60.38 % 
+Groovy                   5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Gradle                   4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Java                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Properties               2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🔥 Editors: 
-Android Studio           43 hrs 4 mins       █████████████████████████   100.00 % 
+Android Studio           43 hrs 51 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      43 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 18:43:32 UTC
+ Last Updated on 22/11/2024 18:43:15 UTC
 <!--END_SECTION:waka-->
