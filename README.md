@@ -8,7 +8,7 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,17 +49,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   26 hrs 49 mins      ███████████████████░░░░░░   76.90 % 
-Java                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Gradle                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Groovy                   1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Properties               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Kotlin                   30 hrs 52 mins      ████████████████████░░░░░   81.86 % 
+Java                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Groovy                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Properties               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Gradle                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Android Studio           34 hrs 52 mins      █████████████████████████   100.00 % 
+Android Studio           37 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      34 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,5 +79,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2024 18:43:22 UTC
+ Last Updated on 26/11/2024 18:43:01 UTC
 <!--END_SECTION:waka-->
