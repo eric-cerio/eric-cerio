@@ -8,13 +8,15 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 6.6 kB Used in GitHub's Storage 
+> 📦 6.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,17 +51,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   20 hrs 19 mins      █████████████████████░░░░   83.89 % 
-XML                      2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Java                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Groovy                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Gradle                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Kotlin                   22 hrs 4 mins       ██████████████████████░░░   89.16 % 
+XML                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Java                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Groovy                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Gradle                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Android Studio           24 hrs 14 mins      █████████████████████████   100.00 % 
+Android Studio           24 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -79,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 18:45:33 UTC
+ Last Updated on 11/12/2024 18:45:28 UTC
 <!--END_SECTION:waka-->
