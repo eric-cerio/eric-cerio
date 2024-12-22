@@ -16,6 +16,8 @@ I'm Eric, an Android developer.
 
 > 📦 6.7 kB Used in GitHub's Storage 
  > 
+> 🏆 22 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -79,5 +81,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2024 18:39:14 UTC
+ Last Updated on 22/12/2024 18:38:54 UTC
 <!--END_SECTION:waka-->
