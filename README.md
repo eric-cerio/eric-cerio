@@ -14,7 +14,7 @@ I'm Eric, an Android developer.
 
 **🐱 My GitHub Data** 
 
-> 📦 6.7 kB Used in GitHub's Storage 
+> 📦 6.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,14 +49,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-XML                      0 secs              █████████████████████████   99.40 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -76,5 +75,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2025 18:40:43 UTC
+ Last Updated on 02/01/2025 18:41:26 UTC
 <!--END_SECTION:waka-->
