@@ -8,15 +8,13 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +49,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   28 hrs 55 mins      █████████████████████░░░░   85.18 % 
-XML                      3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Java                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Kotlin                   29 hrs 2 mins       █████████████████████░░░░   85.97 % 
+XML                      3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Java                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 Groovy                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Gradle                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Gradle                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Android Studio           33 hrs 57 mins      █████████████████████████   100.00 % 
+Android Studio           33 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      33 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +79,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:37:48 UTC
+ Last Updated on 02/02/2025 18:40:15 UTC
 <!--END_SECTION:waka-->
