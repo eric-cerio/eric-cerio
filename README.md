@@ -8,15 +8,13 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-880%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +49,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   41 hrs 14 mins      ████████████████████████░   95.87 % 
-XML                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Java                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Groovy                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Kotlin                   36 hrs 54 mins      ████████████████████████░   95.40 % 
+XML                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Java                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Groovy                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Android Studio           43 hrs              █████████████████████████   100.00 % 
+Android Studio           38 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 hrs              █████████████████████████   100.00 % 
+Mac                      38 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +79,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 18:39:10 UTC
+ Last Updated on 17/02/2025 18:41:01 UTC
 <!--END_SECTION:waka-->
