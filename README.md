@@ -8,15 +8,13 @@ I'm Eric, an Android developer.
 👀 You can check more about me at https://www.linkedin.com/in/eric-cerio/
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 6.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,17 +49,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   22 hrs 30 mins      ███████████████████████░░   92.06 % 
-XML                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Java                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Kotlin                   22 hrs 23 mins      ███████████████████████░░   91.15 % 
+XML                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Java                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 TOML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Android Studio           24 hrs 26 mins      █████████████████████████   100.00 % 
+Android Studio           24 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -81,5 +79,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 18:41:05 UTC
+ Last Updated on 24/03/2025 18:44:58 UTC
 <!--END_SECTION:waka-->
