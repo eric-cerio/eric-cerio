@@ -9,7 +9,7 @@ I'm Eric, an Android developer.
 
 Medium Articles
 
-![Handling Navigation Arguments in ViewModel Using SavedStateHandle – The Right Way](https://medium.com/@eric.cerio/handling-navigation-arguments-in-viewmodel-using-savedstatehandle-the-right-way-d17771158126)
+[Handling Navigation Arguments in ViewModel Using SavedStateHandle – The Right Way](https://medium.com/@eric.cerio/handling-navigation-arguments-in-viewmodel-using-savedstatehandle-the-right-way-d17771158126)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C074%20hrs%2019%20mins-blue)
