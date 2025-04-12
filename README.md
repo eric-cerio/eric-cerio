@@ -11,6 +11,8 @@ Medium Articles
 
 [Handling Navigation Arguments in ViewModel Using SavedStateHandle – The Right Way](https://medium.com/@eric.cerio/handling-navigation-arguments-in-viewmodel-using-savedstatehandle-the-right-way-d17771158126)
 
+[How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C074%20hrs%2019%20mins-blue)
 
