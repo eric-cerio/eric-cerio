@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C091%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,17 +57,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   12 hrs 54 mins      ██████████████████████░░░   86.67 % 
-XML                      1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Java                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Kotlin                   12 hrs 46 mins      ██████████████████████░░░   86.43 % 
+XML                      1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Java                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 Gradle                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Android Studio           14 hrs 53 mins      █████████████████████████   100.00 % 
+Android Studio           14 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,5 +87,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 18:41:05 UTC
+ Last Updated on 20/04/2025 18:43:23 UTC
 <!--END_SECTION:waka-->
