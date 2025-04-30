@@ -14,13 +14,15 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C108%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C113%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,17 +57,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   12 hrs 10 mins      █████████████████████░░░░   83.23 % 
-XML                      1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Java                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Kotlin                   11 hrs 44 mins      ████████████████████░░░░░   80.16 % 
+XML                      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Java                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Android Studio           14 hrs 37 mins      █████████████████████████   100.00 % 
+Android Studio           14 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -85,5 +87,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 18:44:24 UTC
+ Last Updated on 30/04/2025 18:45:33 UTC
 <!--END_SECTION:waka-->
