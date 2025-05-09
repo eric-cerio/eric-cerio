@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,17 +55,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   14 hrs 20 mins      █████████████████████░░░░   84.86 % 
-XML                      2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Java                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Kotlin                   14 hrs 20 mins      █████████████████████░░░░   85.88 % 
+XML                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Java                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Android Studio           16 hrs 53 mins      █████████████████████████   100.00 % 
+Android Studio           16 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -85,5 +85,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 18:46:45 UTC
+ Last Updated on 09/05/2025 18:45:22 UTC
 <!--END_SECTION:waka-->
