@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C142%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,17 +55,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   14 hrs 27 mins      ████████████████████░░░░░   80.80 % 
-XML                      3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Java                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Kotlin                   11 hrs 40 mins      ███████████████████░░░░░░   77.99 % 
+XML                      3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Java                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Android Studio           17 hrs 53 mins      █████████████████████████   100.00 % 
+Android Studio           14 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -85,5 +85,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2025 18:46:39 UTC
+ Last Updated on 13/05/2025 18:45:28 UTC
 <!--END_SECTION:waka-->
