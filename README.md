@@ -14,15 +14,13 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C185%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C188%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.1 kB Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,17 +55,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   14 hrs 16 mins      ███████████████████████░░   90.54 % 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Java                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Groovy                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Kotlin                   15 hrs 53 mins      ███████████████████████░░   92.17 % 
+Java                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+XML                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Android Studio           15 hrs 46 mins      █████████████████████████   100.00 % 
+Android Studio           17 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,5 +85,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 18:46:09 UTC
+ Last Updated on 29/05/2025 18:47:07 UTC
 <!--END_SECTION:waka-->
