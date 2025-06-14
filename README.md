@@ -14,13 +14,15 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C226%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 7.3 kB Used in GitHub's Storage 
+> 📦 7.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 9 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,17 +57,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   12 hrs 32 mins      ██████████████████████░░░   86.35 % 
-Java                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Kotlin                   9 hrs 18 mins       ████████████████████░░░░░   81.82 % 
+Java                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Android Studio           14 hrs 31 mins      █████████████████████████   100.00 % 
+Android Studio           11 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -85,5 +87,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 18:47:25 UTC
+ Last Updated on 14/06/2025 18:44:58 UTC
 <!--END_SECTION:waka-->
