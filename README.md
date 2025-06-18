@@ -14,15 +14,13 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C231%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.4 kB Used in GitHub's Storage 
- > 
-> 🏆 9 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,17 +55,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   10 hrs 24 mins      █████████████████████░░░░   83.57 % 
-Java                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Kotlin                   7 hrs 39 mins       ████████████████████░░░░░   80.69 % 
+XML                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Android Studio           12 hrs 26 mins      █████████████████████████   100.00 % 
+Android Studio           9 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,5 +85,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 18:48:30 UTC
+ Last Updated on 18/06/2025 18:48:23 UTC
 <!--END_SECTION:waka-->
