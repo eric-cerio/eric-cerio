@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C236%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C237%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,7 +22,7 @@ Medium Articles
 
 > 📦 7.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 9 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,17 +57,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   9 hrs 9 mins        ████████████████████░░░░░   80.84 % 
-Java                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-XML                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-HTTP Request             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Gradle                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Kotlin                   9 hrs 19 mins       ████████████████████░░░░░   81.28 % 
+XML                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Java                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+HTTP Request             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Gradle                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-Android Studio           11 hrs 20 mins      █████████████████████████   100.00 % 
+Android Studio           11 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,5 +87,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 18:47:24 UTC
+ Last Updated on 21/06/2025 18:44:00 UTC
 <!--END_SECTION:waka-->
