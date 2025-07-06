@@ -22,6 +22,8 @@ Medium Articles
 
 > 📦 7.4 kB Used in GitHub's Storage 
  > 
+> 🏆 9 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -56,7 +58,7 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 
 💬 Programming Languages: 
 Kotlin                   7 hrs               ███████████████░░░░░░░░░░   59.27 % 
-TOML                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+TOML                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
 Groovy                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 Java                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 Gradle                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
@@ -85,5 +87,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 05/07/2025 18:44:12 UTC
+ Last Updated on 06/07/2025 18:45:45 UTC
 <!--END_SECTION:waka-->
