@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C375%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -22,7 +22,7 @@ Medium Articles
 
 > 📦 8.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 12 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,17 +57,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   11 hrs 35 mins      █████████████████░░░░░░░░   69.01 % 
-Java                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Groovy                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-TOML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Gradle                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Kotlin                   7 hrs 30 mins       ███████████████░░░░░░░░░░   58.02 % 
+Java                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Groovy                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+TOML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Gradle                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🔥 Editors: 
-Android Studio           16 hrs 47 mins      █████████████████████████   100.00 % 
+Android Studio           12 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,5 +87,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2025 18:52:15 UTC
+ Last Updated on 12/08/2025 18:50:47 UTC
 <!--END_SECTION:waka-->
