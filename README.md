@@ -22,6 +22,8 @@ Medium Articles
 
 > 📦 10.4 kB Used in GitHub's Storage 
  > 
+> 🏆 13 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -85,5 +87,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 18:39:55 UTC
+ Last Updated on 14/09/2025 18:40:52 UTC
 <!--END_SECTION:waka-->
