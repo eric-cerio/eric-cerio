@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C484%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C485%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,6 +30,46 @@ Medium Articles
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                175 commits         ███████████░░░░░░░░░░░░░░   45.57 % 
+🌆 Daytime                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+🌃 Evening                156 commits         ██████████░░░░░░░░░░░░░░░   40.62 % 
+🌙 Night                  24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Tuesday                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Wednesday                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Friday                   206 commits         █████████████░░░░░░░░░░░░   53.65 % 
+Saturday                 64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Kotlin                   3 hrs 52 mins       ███████████████████░░░░░░   74.53 % 
+XML                      1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Android Studio           5 hrs 11 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      5 hrs 11 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -47,5 +87,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 18:46:18 UTC
+ Last Updated on 30/09/2025 18:45:00 UTC
 <!--END_SECTION:waka-->
