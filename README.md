@@ -14,13 +14,11 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C492%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 14.5 kB Used in GitHub's Storage 
+> 📦 14.6 kB Used in GitHub's Storage 
  > 
 > 🏆 30 Contributions in the Year 2025
  > 
@@ -47,5 +45,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 18:44:08 UTC
+ Last Updated on 03/10/2025 18:44:40 UTC
 <!--END_SECTION:waka-->
