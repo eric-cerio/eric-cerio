@@ -57,15 +57,13 @@ Sunday                   228 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   14 mins             ██████████████████████░░░   87.26 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -85,5 +83,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 18:50:36 UTC
+ Last Updated on 27/12/2025 18:49:18 UTC
 <!--END_SECTION:waka-->
