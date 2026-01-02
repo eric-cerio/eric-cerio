@@ -14,8 +14,6 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C574%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -30,42 +28,6 @@ Medium Articles
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                802 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-🌆 Daytime                743 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-🌃 Evening                734 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-🌙 Night                  592 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Tuesday                  679 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Thursday                 566 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-Friday                   463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Saturday                 164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Sunday                   228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -83,5 +45,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:51:41 UTC
+ Last Updated on 02/01/2026 18:51:14 UTC
 <!--END_SECTION:waka-->
