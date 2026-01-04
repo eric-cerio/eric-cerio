@@ -14,6 +14,8 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C576%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -28,6 +30,43 @@ Medium Articles
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                802 commits         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+🌆 Daytime                743 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+🌃 Evening                734 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+🌙 Night                  592 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Tuesday                  679 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Thursday                 566 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Friday                   463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Saturday                 164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Sunday                   228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Kotlin                   26 mins             ████████████████████████░   96.30 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+
+🔥 Editors: 
+Android Studio           27 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      27 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -45,5 +84,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:49:33 UTC
+ Last Updated on 04/01/2026 18:49:31 UTC
 <!--END_SECTION:waka-->
