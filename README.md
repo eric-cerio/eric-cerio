@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C576%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C578%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,14 +57,15 @@ Sunday                   227 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   26 mins             ████████████████████████░   96.30 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Kotlin                   1 hr 17 mins        ████████████████░░░░░░░░░   64.17 % 
+XML                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Groovy                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 
 🔥 Editors: 
-Android Studio           27 mins             █████████████████████████   100.00 % 
+Android Studio           2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -84,5 +85,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 18:54:44 UTC
+ Last Updated on 06/01/2026 18:53:13 UTC
 <!--END_SECTION:waka-->
