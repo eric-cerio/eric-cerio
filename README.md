@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C695%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C698%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,17 +57,17 @@ Sunday                   238 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   8 hrs 15 mins       █████████████░░░░░░░░░░░░   53.34 % 
-Other                    3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Markdown                 2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-XML                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Kotlin                   9 hrs 26 mins       ███████████████░░░░░░░░░░   59.67 % 
+Other                    2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Markdown                 1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+XML                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🔥 Editors: 
-Android Studio           15 hrs 28 mins      █████████████████████████   100.00 % 
+Android Studio           15 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -87,5 +87,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2026 19:47:07 UTC
+ Last Updated on 14/04/2026 19:48:33 UTC
 <!--END_SECTION:waka-->
