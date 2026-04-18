@@ -14,8 +14,6 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C706%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -30,6 +28,46 @@ Medium Articles
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                907 commits         ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+🌆 Daytime                804 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+🌃 Evening                766 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌙 Night                  601 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   360 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  710 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Wednesday                481 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Thursday                 599 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Friday                   508 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Saturday                 182 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Sunday                   238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Kotlin                   9 hrs 22 mins       ███████████████████░░░░░░   75.64 % 
+Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+XML                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+TOML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+
+🔥 Editors: 
+Android Studio           12 hrs 23 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      12 hrs 23 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -47,5 +85,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2026 19:37:34 UTC
+ Last Updated on 18/04/2026 19:14:02 UTC
 <!--END_SECTION:waka-->
