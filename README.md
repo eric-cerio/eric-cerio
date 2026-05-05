@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C728%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -57,18 +57,18 @@ Sunday                   241 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   12 hrs 48 mins      ███████████████████░░░░░░   75.21 % 
-XML                      1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Kotlin                   12 hrs 15 mins      ██████████████████░░░░░░░   70.80 % 
+Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+XML                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+JSON                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Unknown Editor           9 hrs 1 min         █████████████░░░░░░░░░░░░   53.04 % 
-Android Studio           7 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.96 % 
+Unknown Editor           9 hrs 21 mins       ██████████████░░░░░░░░░░░   54.02 % 
+Android Studio           7 hrs 57 mins       ███████████░░░░░░░░░░░░░░   45.98 % 
 
 💻 Operating System: 
-Mac                      17 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      17 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -88,5 +88,5 @@ Shell                    2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2026 20:06:40 UTC
+ Last Updated on 05/05/2026 20:03:20 UTC
 <!--END_SECTION:waka-->
