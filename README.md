@@ -20,7 +20,7 @@ Medium Articles
 
 **🐱 My GitHub Data** 
 
-> 📦 21.0 kB Used in GitHub's Storage 
+> 📦 21.1 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2026
  > 
@@ -57,18 +57,18 @@ Sunday                   254 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.68 % 
-Markdown                 1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   37.16 % 
-XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Kotlin                   1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   41.61 % 
+Markdown                 1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   37.33 % 
+XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 16 mins       ██████████████████████░░░   87.25 % 
-Android Studio           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Claude Code              3 hrs 8 mins        ██████████████████████░░░   89.21 % 
+Android Studio           22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 💻 Operating System: 
-Mac                      3 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -88,5 +88,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 20:05:57 UTC
+ Last Updated on 03/07/2026 20:03:08 UTC
 <!--END_SECTION:waka-->
