@@ -14,7 +14,7 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C803%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C807%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,18 +57,18 @@ Sunday                   254 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 9 mins        ███████████████░░░░░░░░░░   61.63 % 
-Markdown                 1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-XML                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Kotlin                   3 hrs 22 mins       ███████████████████░░░░░░   74.98 % 
+Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Bru                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 32 mins       █████████████████░░░░░░░░   67.42 % 
-Android Studio           2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.58 % 
+Claude Code              2 hrs 33 mins       ██████████████░░░░░░░░░░░   56.95 % 
+Android Studio           1 hr 56 mins        ███████████░░░░░░░░░░░░░░   43.05 % 
 
 💻 Operating System: 
-Mac                      6 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -88,5 +88,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 20:27:12 UTC
+ Last Updated on 07/07/2026 20:28:32 UTC
 <!--END_SECTION:waka-->
