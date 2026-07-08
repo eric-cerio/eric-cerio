@@ -33,21 +33,21 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1409 commits        ████████░░░░░░░░░░░░░░░░░   33.48 % 
-🌆 Daytime                1150 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌃 Evening                972 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-🌙 Night                  677 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌞 Morning                1401 commits        ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌆 Daytime                1140 commits        ███████░░░░░░░░░░░░░░░░░░   27.23 % 
+🌃 Evening                968 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌙 Night                  677 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   623 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  917 commits         █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Wednesday                616 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Thursday                 765 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Friday                   652 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Saturday                 381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Sunday                   254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Monday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Tuesday                  910 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Wednesday                613 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Thursday                 762 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Friday                   649 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Saturday                 381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Sunday                   254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 ```
 
 
@@ -57,18 +57,18 @@ Sunday                   254 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 22 mins       ███████████████████░░░░░░   74.98 % 
-Markdown                 45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Bru                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Kotlin                   3 hrs 1 min         █████████████████░░░░░░░░   66.62 % 
+Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 33 mins       ██████████████░░░░░░░░░░░   56.95 % 
-Android Studio           1 hr 56 mins        ███████████░░░░░░░░░░░░░░   43.05 % 
+Claude Code              2 hrs 30 mins       ██████████████░░░░░░░░░░░   55.52 % 
+Android Studio           2 hrs               ███████████░░░░░░░░░░░░░░   44.48 % 
 
 💻 Operating System: 
-Mac                      4 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -88,5 +88,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 20:28:32 UTC
+ Last Updated on 08/07/2026 20:07:53 UTC
 <!--END_SECTION:waka-->
