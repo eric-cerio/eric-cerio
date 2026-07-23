@@ -14,13 +14,11 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C812%20hrs%2040%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 21.1 kB Used in GitHub's Storage 
+> 📦 21.2 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2026
  > 
@@ -57,18 +55,18 @@ Sunday                   265 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 2 hrs 38 mins       ███████████████░░░░░░░░░░   59.45 % 
-Kotlin                   1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   32.62 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Diff                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Markdown                 2 hrs 38 mins       ███████████████░░░░░░░░░░   60.69 % 
+Kotlin                   1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   33.26 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Diff                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 19 mins       ████████████████████████░   96.92 % 
-Android Studio           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Claude Code              4 hrs 19 mins       █████████████████████████   98.94 % 
+Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -88,5 +86,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 20:00:10 UTC
+ Last Updated on 23/07/2026 20:02:18 UTC
 <!--END_SECTION:waka-->
