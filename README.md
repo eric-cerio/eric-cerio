@@ -28,47 +28,6 @@ Medium Articles
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1486 commits        ████████░░░░░░░░░░░░░░░░░   33.64 % 
-🌆 Daytime                1217 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-🌃 Evening                1019 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-🌙 Night                  695 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Tuesday                  934 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-Wednesday                664 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Thursday                 787 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Friday                   669 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Saturday                 431 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Sunday                   265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-Markdown                 2 hrs 38 mins       ███████████████░░░░░░░░░░   60.69 % 
-Kotlin                   1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   33.26 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Diff                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-
-🔥 Editors: 
-Claude Code              4 hrs 19 mins       █████████████████████████   98.94 % 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-
-💻 Operating System: 
-Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -86,5 +45,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:02:18 UTC
+ Last Updated on 24/07/2026 20:01:27 UTC
 <!--END_SECTION:waka-->
