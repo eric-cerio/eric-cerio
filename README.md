@@ -14,6 +14,10 @@ Medium Articles
 [How to Build an Offline-First Android App Using Jetpack](https://medium.com/@eric.cerio/how-to-build-an-offline-first-android-app-using-jetpack-0db1ef3cfa04)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%2043%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2028%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -31,21 +35,21 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1508 commits        ████████░░░░░░░░░░░░░░░░░   33.65 % 
-🌆 Daytime                1250 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-🌃 Evening                1028 commits        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-🌙 Night                  695 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+🌞 Morning                1534 commits        ████████░░░░░░░░░░░░░░░░░   33.58 % 
+🌆 Daytime                1295 commits        ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+🌃 Evening                1041 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+🌙 Night                  698 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  959 commits         █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-Wednesday                675 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Thursday                 793 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Friday                   676 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Saturday                 431 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Sunday                   265 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Monday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Tuesday                  980 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Wednesday                705 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 801 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Friday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 439 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Sunday                   265 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
 
@@ -55,38 +59,37 @@ Sunday                   265 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 1 hr 6 mins         ███████████████████░░░░░░   74.72 % 
-Kotlin                   21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-Bru                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Markdown                 30 mins             █████████████████░░░░░░░░   69.12 % 
+Kotlin                   13 mins             ████████░░░░░░░░░░░░░░░░░   30.42 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Claude Code              1 hr 21 mins        ███████████████████████░░   91.64 % 
-Android Studio           7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Claude Code              36 mins             █████████████████████░░░░   83.16 % 
+Android Studio           7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 
 💻 Operating System: 
-Mac                      1 hr 28 mins        █████████████████████████   100.00 % 
+Mac                      43 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (99.3%)
+⏱ AI Coding Time: 43 mins (98.58%)
 
 ✍️ 517 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,719,807 Input Tokens, 83,148 Output Tokens
+🔤 4,382,708 Input Tokens, 49,275 Output Tokens
 
-💵 $40.35 Estimated AI Cost This Week
+💵 $19.50 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 22 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
 Opus                     534 lines           █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,118 characters per prompt
+📚 Verbose Prompter — average 5,044 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -108,5 +111,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:06:49 UTC
+ Last Updated on 29/07/2026 19:58:49 UTC
 <!--END_SECTION:waka-->
