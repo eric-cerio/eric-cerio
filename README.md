@@ -35,19 +35,19 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1534 commits        ████████░░░░░░░░░░░░░░░░░   33.58 % 
-🌆 Daytime                1295 commits        ███████░░░░░░░░░░░░░░░░░░   28.35 % 
-🌃 Evening                1041 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-🌙 Night                  698 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+🌞 Morning                1534 commits        ████████░░░░░░░░░░░░░░░░░   33.57 % 
+🌆 Daytime                1296 commits        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+🌃 Evening                1042 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+🌙 Night                  698 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Tuesday                  980 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-Wednesday                705 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Thursday                 801 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Friday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Monday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Tuesday                  980 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Wednesday                707 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 801 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Friday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 Saturday                 439 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 Sunday                   265 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
@@ -59,37 +59,36 @@ Sunday                   265 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 30 mins             █████████████████░░░░░░░░   69.12 % 
-Kotlin                   13 mins             ████████░░░░░░░░░░░░░░░░░   30.42 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Markdown                 11 mins             █████████████░░░░░░░░░░░░   52.05 % 
+Kotlin                   10 mins             ████████████░░░░░░░░░░░░░   47.02 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-Claude Code              36 mins             █████████████████████░░░░   83.16 % 
-Android Studio           7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Claude Code              14 mins             █████████████████░░░░░░░░   66.20 % 
+Android Studio           7 mins              ████████░░░░░░░░░░░░░░░░░   33.80 % 
 
 💻 Operating System: 
-Mac                      43 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (98.58%)
+⏱ AI Coding Time: 21 mins (97.15%)
 
-✍️ 517 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 387 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,382,708 Input Tokens, 49,275 Output Tokens
+🔤 941,268 Input Tokens, 15,295 Output Tokens
 
-💵 $19.50 Estimated AI Cost This Week
+💵 $5.09 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-Opus                     534 lines           █████████████████████████   100.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     404 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,044 characters per prompt
+📚 Verbose Prompter — average 4,187 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -111,5 +110,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:58:49 UTC
+ Last Updated on 30/07/2026 20:07:20 UTC
 <!--END_SECTION:waka-->
