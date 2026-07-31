@@ -22,7 +22,7 @@ Medium Articles
 
 **🐱 My GitHub Data** 
 
-> 📦 21.2 kB Used in GitHub's Storage 
+> 📦 21.3 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2026
  > 
@@ -35,21 +35,21 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1534 commits        ████████░░░░░░░░░░░░░░░░░   33.57 % 
-🌆 Daytime                1296 commits        ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-🌃 Evening                1042 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-🌙 Night                  698 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+🌞 Morning                1593 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌆 Daytime                1334 commits        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌃 Evening                1064 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+🌙 Night                  701 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Tuesday                  980 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-Wednesday                707 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Thursday                 801 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Friday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Saturday                 439 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Sunday                   265 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Monday                   721 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Tuesday                  1003 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+Wednesday                724 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 819 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Friday                   702 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Saturday                 444 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Sunday                   279 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 ```
 
 
@@ -59,38 +59,19 @@ Sunday                   265 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 11 mins             █████████████░░░░░░░░░░░░   52.05 % 
-Kotlin                   10 mins             ████████████░░░░░░░░░░░░░   47.02 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              14 mins             █████████████████░░░░░░░░   66.20 % 
-Android Studio           7 mins              ████████░░░░░░░░░░░░░░░░░   33.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (97.15%)
-
-✍️ 387 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 941,268 Input Tokens, 15,295 Output Tokens
-
-💵 $5.09 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Opus                     404 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,187 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -110,5 +91,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:07:20 UTC
+ Last Updated on 31/07/2026 20:08:01 UTC
 <!--END_SECTION:waka-->
