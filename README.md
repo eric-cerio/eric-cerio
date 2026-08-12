@@ -36,16 +36,16 @@ Medium Articles
 
 ```text
 🌞 Morning                1553 commits        ████████░░░░░░░░░░░░░░░░░   33.38 % 
-🌆 Daytime                1336 commits        ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+🌆 Daytime                1337 commits        ███████░░░░░░░░░░░░░░░░░░   28.73 % 
 🌃 Evening                1063 commits        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-🌙 Night                  700 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+🌙 Night                  700 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   707 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Monday                   707 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
 Tuesday                  1011 commits        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Wednesday                720 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Wednesday                721 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
 Thursday                 810 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
 Friday                   691 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 Saturday                 447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
@@ -59,19 +59,40 @@ Sunday                   266 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   1 hr 10 mins        ███████████████░░░░░░░░░░   60.09 % 
+Markdown                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+XML                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Bru                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              1 hr 56 mins        █████████████████████████   99.99 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 56 mins (99.99%)
+
+✍️ 707 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,360,812 Input Tokens, 139,322 Output Tokens
+
+💵 $31.03 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 12 AI Prompts
+
+Opus                     709 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,973 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -91,5 +112,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:39:28 UTC
+ Last Updated on 12/08/2026 19:42:35 UTC
 <!--END_SECTION:waka-->
