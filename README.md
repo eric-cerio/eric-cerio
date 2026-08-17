@@ -35,21 +35,21 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1567 commits        ████████░░░░░░░░░░░░░░░░░   33.30 % 
-🌆 Daytime                1361 commits        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-🌃 Evening                1078 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-🌙 Night                  700 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+🌞 Morning                1568 commits        ████████░░░░░░░░░░░░░░░░░   33.25 % 
+🌆 Daytime                1366 commits        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌃 Evening                1082 commits        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+🌙 Night                  700 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   718 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Tuesday                  1026 commits        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Wednesday                730 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Thursday                 820 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Friday                   699 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Saturday                 447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Sunday                   266 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Monday                   724 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Tuesday                  1028 commits        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Wednesday                731 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Thursday                 822 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Friday                   698 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Saturday                 447 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Sunday                   266 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 
@@ -98,11 +98,11 @@ Opus                     709 lines           ███████████�
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Go Template              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Kotlin                   14 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Go Template              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -112,5 +112,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 19:00:45 UTC
+ Last Updated on 17/08/2026 19:12:58 UTC
 <!--END_SECTION:waka-->
