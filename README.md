@@ -59,19 +59,38 @@ Sunday                   269 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Kotlin                   11 mins             █████████████████████████   100.00 % 
+Markdown                 34 hrs 52 mins      █████████████████████████   99.20 % 
+Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Android Studio           11 mins             █████████████████████████   100.00 % 
+Claude Code              34 hrs 57 mins      █████████████████████████   99.46 % 
+Android Studio           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+Mac                      35 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 34 hrs 57 mins (99.46%)
+
+✍️ 54 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,713,085 Input Tokens, 272,921 Output Tokens
+
+💵 $171.18 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 279 AI Prompts
+
+Opus                     54 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 10,642 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -91,5 +110,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:13:54 UTC
+ Last Updated on 22/08/2026 19:01:44 UTC
 <!--END_SECTION:waka-->
