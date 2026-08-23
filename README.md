@@ -22,7 +22,7 @@ Medium Articles
 
 **🐱 My GitHub Data** 
 
-> 📦 21.6 kB Used in GitHub's Storage 
+> 📦 21.5 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2026
  > 
@@ -59,38 +59,37 @@ Sunday                   269 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 34 hrs 52 mins      █████████████████████████   99.20 % 
-Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Markdown                 28 hrs 46 mins      █████████████████████████   99.34 % 
+Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 57 mins      █████████████████████████   99.46 % 
-Android Studio           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Claude Code              28 hrs 46 mins      █████████████████████████   99.34 % 
+Android Studio           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Mac                      35 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      28 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 57 mins (99.46%)
+⏱ AI Coding Time: 28 hrs 46 mins (99.34%)
 
-✍️ 54 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,713,085 Input Tokens, 272,921 Output Tokens
+🔤 2,005,757 Input Tokens, 137,126 Output Tokens
 
-💵 $171.18 Estimated AI Cost This Week
+💵 $95.71 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 279 AI Prompts
+🧠 10 AI Sessions, 267 AI Prompts
 
-Opus                     54 lines            █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,642 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 10,860 characters per prompt
+🔁 Iterative Prompter — average 27 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Kotlin** 
@@ -110,5 +109,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 19:01:44 UTC
+ Last Updated on 23/08/2026 19:01:29 UTC
 <!--END_SECTION:waka-->
