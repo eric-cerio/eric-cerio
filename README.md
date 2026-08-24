@@ -35,21 +35,21 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1616 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌆 Daytime                1403 commits        ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-🌃 Evening                1103 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-🌙 Night                  703 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+🌞 Morning                1626 commits        ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌆 Daytime                1431 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌃 Evening                1117 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+🌙 Night                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   746 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Tuesday                  1052 commits        █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Wednesday                748 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Thursday                 846 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Friday                   713 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Saturday                 451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Sunday                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Monday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Tuesday                  1068 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+Wednesday                754 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Thursday                 856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Friday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Saturday                 451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Sunday                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 
 
@@ -59,36 +59,36 @@ Sunday                   269 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 28 hrs 46 mins      █████████████████████████   99.34 % 
-Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Markdown                 18 hrs 32 mins      █████████████████████████   98.98 % 
+Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 46 mins      █████████████████████████   99.34 % 
-Android Studio           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Claude Code              18 hrs 32 mins      █████████████████████████   98.98 % 
+Android Studio           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-Mac                      28 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 46 mins (99.34%)
+⏱ AI Coding Time: 18 hrs 32 mins (98.98%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,005,757 Input Tokens, 137,126 Output Tokens
+🔤 1,715,651 Input Tokens, 118,479 Output Tokens
 
-💵 $95.71 Estimated AI Cost This Week
+💵 $64.88 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 267 AI Prompts
+🧠 8 AI Sessions, 200 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 10,860 characters per prompt
-🔁 Iterative Prompter — average 27 prompts per session
+📚 Verbose Prompter — average 10,702 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -109,5 +109,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 19:01:29 UTC
+ Last Updated on 24/08/2026 19:17:00 UTC
 <!--END_SECTION:waka-->
