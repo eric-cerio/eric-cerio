@@ -35,21 +35,21 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1626 commits        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌆 Daytime                1431 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-🌃 Evening                1117 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-🌙 Night                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+🌞 Morning                1616 commits        ████████░░░░░░░░░░░░░░░░░   33.42 % 
+🌆 Daytime                1408 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+🌃 Evening                1107 commits        ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+🌙 Night                  705 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Tuesday                  1068 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Wednesday                754 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Thursday                 856 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Friday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Sunday                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Monday                   752 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Tuesday                  1056 commits        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Wednesday                748 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 847 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Friday                   713 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Saturday                 451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Sunday                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
@@ -59,36 +59,36 @@ Sunday                   269 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 18 hrs 32 mins      █████████████████████████   98.98 % 
-Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Markdown                 9 hrs 13 mins       ████████████████████████░   97.97 % 
+Kotlin                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 32 mins      █████████████████████████   98.98 % 
-Android Studio           11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Claude Code              9 hrs 13 mins       ████████████████████████░   97.97 % 
+Android Studio           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Mac                      18 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 32 mins (98.98%)
+⏱ AI Coding Time: 9 hrs 13 mins (97.97%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,715,651 Input Tokens, 118,479 Output Tokens
+🔤 1,247,813 Input Tokens, 106,786 Output Tokens
 
-💵 $64.88 Estimated AI Cost This Week
+💵 $41.50 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 200 AI Prompts
+🧠 7 AI Sessions, 105 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 10,702 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
+📚 Verbose Prompter — average 9,916 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -109,5 +109,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:17:00 UTC
+ Last Updated on 25/08/2026 19:14:11 UTC
 <!--END_SECTION:waka-->
