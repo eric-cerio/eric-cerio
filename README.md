@@ -35,21 +35,21 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1622 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-🌆 Daytime                1437 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌃 Evening                1124 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-🌙 Night                  707 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌞 Morning                1642 commits        ████████░░░░░░░░░░░░░░░░░   32.89 % 
+🌆 Daytime                1489 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌃 Evening                1150 commits        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+🌙 Night                  711 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   762 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Tuesday                  1073 commits        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Wednesday                762 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Thursday                 861 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Friday                   712 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Saturday                 451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Sunday                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Monday                   788 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Tuesday                  1105 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Wednesday                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Thursday                 883 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Friday                   720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Saturday                 451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Sunday                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 
 
@@ -59,36 +59,36 @@ Sunday                   269 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 2 hrs 40 mins       █████████████████████████   99.99 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Markdown                 7 mins              █████████████████████████   99.71 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 40 mins       █████████████████████████   99.99 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude Code              7 mins              █████████████████████████   99.71 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 40 mins (99.99%)
+⏱ AI Coding Time: 7 mins (99.71%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 441,516 Input Tokens, 77,929 Output Tokens
+🔤 41,446 Input Tokens, 4,364 Output Tokens
 
-💵 $27.47 Estimated AI Cost This Week
+💵 $0.74 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 12 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,546 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 6,063 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -109,5 +109,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:22:41 UTC
+ Last Updated on 29/08/2026 01:57:13 UTC
 <!--END_SECTION:waka-->
