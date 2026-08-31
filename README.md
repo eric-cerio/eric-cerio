@@ -35,20 +35,20 @@ Medium Articles
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1642 commits        ████████░░░░░░░░░░░░░░░░░   32.89 % 
-🌆 Daytime                1489 commits        ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-🌃 Evening                1150 commits        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-🌙 Night                  711 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+🌞 Morning                1637 commits        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌆 Daytime                1487 commits        ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+🌃 Evening                1144 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+🌙 Night                  727 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   788 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Tuesday                  1105 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Wednesday                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Thursday                 883 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Friday                   720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Saturday                 451 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Monday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Tuesday                  1117 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+Wednesday                773 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Thursday                 881 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Friday                   720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Saturday                 449 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 Sunday                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 
@@ -59,37 +59,19 @@ Sunday                   269 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Markdown                 7 mins              █████████████████████████   99.71 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Kotlin                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              7 mins              █████████████████████████   99.71 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Android Studio           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (99.71%)
-
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
-
-🔤 41,446 Input Tokens, 4,364 Output Tokens
-
-💵 $0.74 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 3 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 6,063 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -109,5 +91,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:24:55 UTC
+ Last Updated on 31/08/2026 23:05:46 UTC
 <!--END_SECTION:waka-->
