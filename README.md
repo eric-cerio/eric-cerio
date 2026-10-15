@@ -18,7 +18,7 @@ Medium Articles
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2040%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -91,5 +91,5 @@ Go Template              1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eric-cerio/eric-cerio/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 21:52:14 UTC
+ Last Updated on 15/10/2026 21:36:30 UTC
 <!--END_SECTION:waka-->
